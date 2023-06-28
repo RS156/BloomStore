@@ -12,3 +12,5 @@ Homepage with
 10. implement a secure and user-friendly checkout process, including shipping and billing information collection, order summary, and payment processing.
 11. Security - Implement secure authentication and authorization mechanisms.
 12. Follow best practices to protect user data and prevent common security vulnerabilities like cross-site scripting (XSS) and SQL injection. 
+13. Add lazy loading and dnamic imports and othher optimization techniques
+14. implement dark mode using tailwind css
