@@ -1,6 +1,6 @@
-Sephora clone application
+Nike clone application
 Homepage with 
-1. Header similar to sephora
+1. Header similar to nike
 2. below header categories for selection
 3. User registration and user login
 4. Create a database of products with attributes like name, description, price, brand, category, and images.
@@ -14,3 +14,5 @@ Homepage with
 12. Follow best practices to protect user data and prevent common security vulnerabilities like cross-site scripting (XSS) and SQL injection. 
 13. Add lazy loading and dnamic imports and othher optimization techniques
 14. implement dark mode using tailwind css
+
+Later on need to learn react native for mobile development
